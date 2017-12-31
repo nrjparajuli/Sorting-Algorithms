@@ -1,6 +1,5 @@
 /**************************************************************
-CS 310 - Project 1
-Authors: Niraj Parajuli and Saimoon Thapa
+Author: Niraj Parajuli
 Filename: Sorting.cpp
 
 This program generates a file of 10 random numbers,
@@ -10,8 +9,9 @@ the following sorting algorithms:
 *Merge Sort
 *Quick Sort
 *Heap Sort
-We, then, increase the number of items in the list 
-by 10 and display the time cost for sorting the list
+
+It, then, increases the number of items in the list 
+by 10 and displays the time cost for sorting the list
 with each algorithm.
 **************************************************************/
 
